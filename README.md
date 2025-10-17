@@ -1,9 +1,9 @@
-# **Marcos Avila**
+# **Marcos Ávila**
 **Desenvolvedor Salesforce Senior | Futuro Arquiteto Salesforce**
 
 **Sobre Mim**
 
-Olá! 👋 Eu sou Marcos Avila, desenvolvedor Salesforce com mais de 4 anos de experiência em desenvolvimento e soluções corporativas. Tenho paixão por automação de processos, integração de sistemas e criação de soluções escaláveis. Atualmente estou me especializando para me tornar Arquiteto Salesforce.
+Olá! 👋 Eu sou Marcos Ávila, desenvolvedor Salesforce com mais de 4 anos de experiência em desenvolvimento e soluções corporativas. Tenho paixão por automação de processos, integração de sistemas e criação de soluções escaláveis. Atualmente estou me especializando para me tornar Arquiteto Salesforce.
 
 **Tecnologias que Uso**
 
@@ -37,5 +37,3 @@ Governança e controle: gerenciamento de habilitações, direitos e marcos contr
 ## Social
 - [LinkedIn](https://www.linkedin.com/in/marcos-%C3%A1vila-b4493b125/)  
 - [Trailhead](https://www.salesforce.com/trailblazer/marcosavila)
-
-console.log("Visite meu perfil Trailhead!");
