@@ -88,7 +88,7 @@ JSON
 
 ---
 
-## Programming Languages
+## 💻 Programming Languages
 
 Apex
 Java
@@ -96,7 +96,7 @@ SQL
 
 ---
 
-## Markup Languages
+## 📝 Markup Languages
 
 XML
 Markdown
@@ -104,7 +104,7 @@ TOML
 
 ---
 
-## Build / Project Structure
+## ⚙️ Build / Project Structure
 
 Apache Ant (build.xml)
 JAR
@@ -112,7 +112,7 @@ JAR
 
 ---
 
-## Development Tools
+## 🛠 Development Tools
 
 Git
 GitHub
