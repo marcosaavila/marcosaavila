@@ -1,39 +1,193 @@
-# **Marcos Ávila**
-**Desenvolvedor Salesforce Senior | Futuro Arquiteto Salesforce**
+# 👨‍💻 Marcos Ávila
 
-**Sobre Mim**
+**Senior Salesforce Developer | Future Salesforce Architect**
 
-Olá! 👋 Eu sou Marcos Ávila, desenvolvedor Salesforce com mais de 4 anos de experiência em desenvolvimento e soluções corporativas. Tenho paixão por automação de processos, integração de sistemas e criação de soluções escaláveis. Atualmente estou me especializando para me tornar Arquiteto Salesforce.
+---
 
-**Tecnologias que Uso**
+## 👋 About Me
 
-Salesforce: Apex | Lightning Web Components (LWC) | Aura | Flows | Process Builder
-Integrações: REST / SOAP | ERP (SAP, Protheus) | APIs externas
-Desenvolvimento: Java | SQL | Batch Apex
-Ferramentas de Desenvolvimento: Git | GitHub | Azure DevOps | VS Code | HeidiSQL | Postman | Jira
-Bancos de Dados: MySQL | MariaDB | Salesforce Objects
-Outras Tecnologias: CI/CD | TDD | Testes Unitários | Modelagem de Dados | DevOps
+Olá! Eu sou **Marcos Ávila**, desenvolvedor **Salesforce** com mais de **4 anos de experiência** construindo soluções corporativas escaláveis.
 
-**Linguagens de Marcação e Estilo**
-HTML5 | CSS3 | JSON | Visualforce
+Tenho forte atuação em:
 
-**Linguagens de Programação**
-Apex | Java | SQL
+* Automação de processos
+* Integração entre sistemas
+* Desenvolvimento Apex
+* Arquitetura de soluções Salesforce
 
-**Frameworks e Bibliotecas Salesforce**
-Aura | LWC
+Atualmente estou evoluindo minha carreira para **Salesforce Architect**, aprofundando conhecimentos em **arquitetura de integração, modelagem de dados e governança de plataformas**.
 
-**Experiência / Atuação Profissional**
-Criação e manutenção de soluções na plataforma Salesforce, incluindo:
-Configuração e customização: objetos, campos personalizados, regras de validação, layouts de página, tipos de registro, dependências de campo, guias e componentes de página inicial.
-Desenvolvimento Apex: triggers, classes, batch, schedulables, integrações e otimizações de código.
-Interfaces e componentes: Visualforce, Aura e Lightning Web Components (LWC).
-Automação de processos: workflows, processos de aprovação, fluxos, ações de alerta, atualizações de campo e envio de notificações por e-mail.
-Administração e segurança: perfis, conjuntos de permissões, acessibilidade de campos, grupos públicos, filas, regras de atribuição e configuração de leads e casos.
-Gestão e sustentação: análise e correção de incidentes, ajustes de código, melhorias contínuas, e suporte a deploys (change sets, entrada e saída).
-Relatórios e painéis: criação e manutenção de relatórios analíticos, dashboards e indicadores para apoio à gestão.
-Governança e controle: gerenciamento de habilitações, direitos e marcos contratuais.
+---
 
-## Social
-- [LinkedIn](https://www.linkedin.com/in/marcos-%C3%A1vila-b4493b125/)  
-- [Trailhead](https://www.salesforce.com/trailblazer/marcosavila)
+# 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB\&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+# 📈 GitHub Activity Graph
+
+[![Marcos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB\&theme=tokyo-night)](https://github.com/SEU_USUARIO_GITHUB)
+
+---
+
+# 🛠 Tech Stack
+
+## Salesforce
+
+Salesforce Platform
+Apex
+Lightning Web Components (LWC)
+Aura Framework
+Visualforce
+Flows / Process Automation
+
+---
+
+## Backend / Integrações
+
+Java
+REST APIs
+SOAP APIs
+Batch Apex
+Schedulable Apex
+CI/CD
+
+---
+
+## Banco de Dados
+
+MySQL
+MariaDB
+HeidiSQL
+Salesforce Objects
+
+---
+
+## Frontend
+
+HTML5
+CSS3
+JSON
+
+---
+
+## Linguagens de Programação
+
+Apex
+Java
+SQL
+
+---
+
+## Linguagens de Marcação
+
+XML
+Markdown
+TOML
+
+---
+
+## Build / Estrutura de Projeto
+
+Apache Ant (build.xml)
+JAR
+.sample
+
+---
+
+## Ferramentas de Desenvolvimento
+
+Git
+GitHub
+Azure DevOps
+VS Code
+Postman
+Jira
+
+---
+
+# 🧠 Arquitetura Salesforce
+
+Data Modeling
+SOQL / SOSL
+Integration Patterns
+Governor Limits Optimization
+Platform Security
+API Integrations
+
+---
+
+# 💼 Experiência Profissional
+
+Desenvolvimento e manutenção de soluções corporativas utilizando **Salesforce Platform**, incluindo:
+
+### Configuração e Customização
+
+* Objetos e campos personalizados
+* Regras de validação
+* Layouts de página
+* Tipos de registro
+* Dependências de campo
+
+### Desenvolvimento
+
+* Apex Classes
+* Apex Triggers
+* Batch Apex
+* Integrações REST/SOAP
+
+### Interfaces
+
+Visualforce
+Aura Components
+Lightning Web Components (LWC)
+
+### Automação de Processos
+
+Flows
+Workflows
+Processos de aprovação
+Alertas de email
+Atualizações automáticas de campos
+
+### Administração e Segurança
+
+Perfis
+Permission Sets
+Field Level Security
+Filas e grupos públicos
+
+### Gestão e Sustentação
+
+Análise de incidentes
+Correções e melhorias contínuas
+Suporte a deploys
+
+### Relatórios e Dashboards
+
+Relatórios analíticos
+Dashboards executivos
+Indicadores de performance
+
+---
+
+# 🌎 Social
+
+🔗 LinkedIn
+https://www.linkedin.com/in/marcos-%C3%A1vila-b4493b125/
+
+🔗 Trailhead
+https://www.salesforce.com/trailblazer/marcosavila
+
+---
+
+⭐ *Always learning, always building.*
