@@ -6,16 +6,7 @@
 
 ## 👋 About Me
 
-Olá! Eu sou **Marcos Ávila**, desenvolvedor **Salesforce** com mais de **4 anos de experiência** construindo soluções corporativas escaláveis.
-
-Tenho forte atuação em:
-
-* Automação de processos
-* Integração entre sistemas
-* Desenvolvimento Apex
-* Arquitetura de soluções Salesforce
-
-Atualmente estou evoluindo minha carreira para **Salesforce Architect**, aprofundando conhecimentos em **arquitetura de integração, modelagem de dados e governança de plataformas**.
+Hello! I’m **Marcos Ávila**, a **Salesforce Developer** since **December 2021**.
 
 ---
 
@@ -52,7 +43,7 @@ Flows / Process Automation
 
 ---
 
-## Backend / Integrações
+## Backend / Integrations
 
 Java
 REST APIs
@@ -63,7 +54,7 @@ CI/CD
 
 ---
 
-## Banco de Dados
+## Databases
 
 MySQL
 MariaDB
@@ -80,7 +71,7 @@ JSON
 
 ---
 
-## Linguagens de Programação
+## Programming Languages
 
 Apex
 Java
@@ -88,7 +79,7 @@ SQL
 
 ---
 
-## Linguagens de Marcação
+## Markup Languages
 
 XML
 Markdown
@@ -96,7 +87,7 @@ TOML
 
 ---
 
-## Build / Estrutura de Projeto
+## Build / Project Structure
 
 Apache Ant (build.xml)
 JAR
@@ -104,7 +95,7 @@ JAR
 
 ---
 
-## Ferramentas de Desenvolvimento
+## Development Tools
 
 Git
 GitHub
@@ -115,7 +106,7 @@ Jira
 
 ---
 
-# 🧠 Arquitetura Salesforce
+# 🧠 Salesforce Architecture
 
 Data Modeling
 SOQL / SOSL
@@ -123,60 +114,6 @@ Integration Patterns
 Governor Limits Optimization
 Platform Security
 API Integrations
-
----
-
-# 💼 Experiência Profissional
-
-Desenvolvimento e manutenção de soluções corporativas utilizando **Salesforce Platform**, incluindo:
-
-### Configuração e Customização
-
-* Objetos e campos personalizados
-* Regras de validação
-* Layouts de página
-* Tipos de registro
-* Dependências de campo
-
-### Desenvolvimento
-
-* Apex Classes
-* Apex Triggers
-* Batch Apex
-* Integrações REST/SOAP
-
-### Interfaces
-
-Visualforce
-Aura Components
-Lightning Web Components (LWC)
-
-### Automação de Processos
-
-Flows
-Workflows
-Processos de aprovação
-Alertas de email
-Atualizações automáticas de campos
-
-### Administração e Segurança
-
-Perfis
-Permission Sets
-Field Level Security
-Filas e grupos públicos
-
-### Gestão e Sustentação
-
-Análise de incidentes
-Correções e melhorias contínuas
-Suporte a deploys
-
-### Relatórios e Dashboards
-
-Relatórios analíticos
-Dashboards executivos
-Indicadores de performance
 
 ---
 
