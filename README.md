@@ -21,9 +21,9 @@ Currently advancing my career toward becoming a **Salesforce Architect**, deepen
 
 # 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosaavila\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosaavila&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaavila\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaavila&layout=compact&theme=tokyonight)
 
 ---
 
