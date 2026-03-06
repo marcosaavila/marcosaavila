@@ -19,15 +19,11 @@ Atualmente estou evoluindo minha carreira para me tornar **Salesforce Architect*
 
 ---
 
-# 📊 Atividade no GitHub
+## 📊 Lines of Code
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosaavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosaavila&theme=tokyonight)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaavila&layout=compact&theme=tokyonight"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcosaavila&theme=tokyonight)
 
 ---
 
