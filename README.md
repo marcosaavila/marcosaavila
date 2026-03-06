@@ -19,11 +19,9 @@ Atualmente estou evoluindo minha carreira para me tornar **Salesforce Architect*
 
 ---
 
-## 📊 Lines of Code
+## 📈 Timeline — Lines of Code
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosaavila&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcosaavila&theme=tokyonight)
+![Timeline](https://github-readme-activity-graph.vercel.app/graph?username=marcosaavila&theme=tokyo-night)
 
 ---
 
