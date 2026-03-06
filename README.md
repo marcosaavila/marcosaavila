@@ -20,11 +20,10 @@ Meu objetivo profissional é evoluir para **Salesforce Architect**, aprofundando
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 Estatísticas Linguagens
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosaavila&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcosaavila&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaavila&layout=compact&theme=tokyonight" />
 </p>
 
 ---
