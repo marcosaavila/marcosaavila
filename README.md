@@ -8,24 +8,39 @@
 
 Olá! Eu sou **Marcos Ávila**, desenvolvedor **Salesforce desde dezembro de 2021**.
 
-Trabalho construindo **soluções escaláveis na plataforma Salesforce**, com foco em automação, integrações e arquitetura de sistemas corporativos.
+Atuo construindo **soluções escaláveis na plataforma Salesforce**, com foco em automação, integrações e arquitetura de sistemas corporativos.
 
-Atualmente estou evoluindo minha carreira para me tornar **Salesforce Architect**, aprofundando conhecimentos em:
+Meu objetivo profissional é evoluir para **Salesforce Architect**, aprofundando conhecimentos em:
 
 • Arquitetura de Integrações
 • Integrações entre Sistemas Corporativos
 • Governança de Plataforma
 • Modelagem de Dados
+• Arquitetura de Sistemas
 
 ---
 
-## 📈 Timeline — Lines of Code
+# 📊 Estatísticas do GitHub
 
-![Timeline](https://github-readme-activity-graph.vercel.app/graph?username=marcosaavila&theme=tokyo-night)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosaavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaavila&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-# 📈 Linha do tempo de contribuições
+# 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marcosaavila&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Timeline — Linhas de Código
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosaavila\&theme=tokyo-night)](https://github.com/marcosaavila)
 
@@ -77,3 +92,4 @@ https://www.salesforce.com/trailblazer/marcosavila
 ---
 
 ⭐ Sempre aprendendo. Sempre construindo. Sempre evoluindo.
+
