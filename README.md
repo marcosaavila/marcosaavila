@@ -23,7 +23,7 @@ Meu objetivo profissional é evoluir para **Salesforce Architect**, aprofundando
 # 📊 Estatísticas Linguagens
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaavila&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaavila&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
