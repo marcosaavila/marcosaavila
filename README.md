@@ -1,63 +1,67 @@
 # 👨‍💻 Marcos Ávila
 
-**Senior Salesforce Developer | 📚 Salesforce Architect | 🎓 Software Engineer**
+**Desenvolvedor Salesforce Sênior | 📚 Salesforce Architect | 🎓 Engenheiro de Software**
 
 ---
 
-# 👋 About Me
+# 👋 Sobre mim
 
-Hello! I'm **Marcos Ávila**, a **Salesforce Developer since December 2021** focused on building scalable enterprise solutions.
+Olá! Eu sou **Marcos Ávila**, desenvolvedor **Salesforce desde dezembro de 2021**.
 
-My work centers around **Salesforce Platform architecture, integrations, and automation** in complex enterprise environments.
+Trabalho construindo **soluções escaláveis na plataforma Salesforce**, com foco em automação, integrações e arquitetura de sistemas corporativos.
 
-Currently advancing my career toward becoming a **Salesforce Architect**, deepening expertise in:
+Atualmente estou evoluindo minha carreira para me tornar **Salesforce Architect**, aprofundando conhecimentos em:
 
-• Integration Architecture
-• Enterprise System Integrations
-• Platform Governance
-• Data Modeling
-
----
-
-# 📊 GitHub Activity
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosaavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaavila&layout=compact&theme=tokyonight"/>
+• Arquitetura de Integrações
+• Integrações entre Sistemas Corporativos
+• Governança de Plataforma
+• Modelagem de Dados
 
 ---
 
-# 📈 Contribution Timeline
+# 📊 Atividade no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosaavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaavila&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Linha do tempo de contribuições
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosaavila\&theme=tokyo-night)](https://github.com/marcosaavila)
 
 ---
 
-# 🧠 Salesforce Expertise
+# 🧠 Especialização em Salesforce
 
-Salesforce Platform Architecture
-Apex Development
+Arquitetura na Plataforma Salesforce
+Desenvolvimento Apex
 Lightning Web Components (LWC)
-Automation & Flow Design
-Governor Limits Optimization
-SOQL / SOSL Optimization
-API Integrations
-Enterprise Integrations
+Automação com Flows
+Otimização de Governor Limits
+Otimização de SOQL / SOSL
+Integrações via API
+Integrações entre sistemas corporativos
 
 ---
 
-# ⚙️ Core Engineering Areas
+# ⚙️ Áreas principais de engenharia
 
-Backend Integrations
-System Integration Patterns
-REST / SOAP APIs
-CI/CD for Salesforce
-Data Modeling
-Platform Security
+Integração de sistemas
+Padrões de integração
+APIs REST / SOAP
+CI/CD para Salesforce
+Modelagem de dados
+Segurança de plataforma
 
 ---
 
-# 🛠 Development Tools
+# 🛠 Ferramentas de desenvolvimento
 
 Git
 GitHub
@@ -68,7 +72,7 @@ Jira
 
 ---
 
-# 🌎 Connect With Me
+# 🌎 Conecte-se comigo
 
 🔗 LinkedIn
 https://www.linkedin.com/in/marcos-%C3%A1vila-b4493b125/
@@ -78,5 +82,4 @@ https://www.salesforce.com/trailblazer/marcosavila
 
 ---
 
-⭐ Always learning. Always building. Always improving.
-
+⭐ Sempre aprendendo. Sempre construindo. Sempre evoluindo.
